@@ -54,18 +54,18 @@ Anaemia
 🔹 Interactive Slicer
 
 Filter the dashboard by gender (male/female) for customized insights
-🛠️ Tech Stack
+
 Tool: Microsoft Power BI
-Data Processing: Power Query
-Visuals Used:
-KPI Cards
-Line Charts
-Ribbon Charts
-Column Charts
-Slicers
+Data_Processing: Power Query
+Visualizations:
+  - KPI Cards
+  - Line Charts
+  - Ribbon Charts
+  - Column Charts
+  - Slicers
 
 🚀 How to Run the Project
 
-Download the .pbix file from this repository
-Open it in Power BI Desktop
-Use filters to explore age-wise and gender-wise insights
+1. Download the .pbix file from this repository
+2. Open the file using Microsoft Power BI Desktop
+3. Explore insights based on age-wise and gender-wise analysis
