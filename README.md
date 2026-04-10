@@ -63,7 +63,9 @@ Line Charts
 Ribbon Charts
 Column Charts
 Slicers
+
 🚀 How to Run the Project
+
 Download the .pbix file from this repository
 Open it in Power BI Desktop
 Use filters to explore age-wise and gender-wise insights
